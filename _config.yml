@@ -1,0 +1,18 @@
+# Site settings
+title: Abercompsoc
+description: >
+ Site for the Aberystwyth Computer Science Society
+
+baseurl: ""
+url: "http://abercompsoc.github.io"
+
+author:
+  fullname: Louis Taylor
+  #googleplus: https://www.google.com/+
+  github: abercompsoc
+  twitter: abercompsoc
+
+# google_analytics: 'UA-XXXXXXXX-X'
+
+# Build settings
+markdown: kramdown
