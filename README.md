@@ -3,6 +3,9 @@ abercompsoc.github.io
 
 A jekell site cargo-culted from [daktilo](https://github.com/kronik3r/daktilo).
 
+Developing
+----------
+
 If you're lucky enough to be running NixOS, run:
 
 ```bash
