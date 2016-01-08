@@ -18,7 +18,7 @@ If you're on another platform, you'll need to install jekyll manually, then
 run:
 
 ```bash
-$ jekell s
+$ jekyll s
 ```
     
 See the [installation guide](http://jekyllrb.com/docs/installation/) for more
