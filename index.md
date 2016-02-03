@@ -8,4 +8,4 @@ We are a group of students at Aberystwyth with a keen interest in all things Com
 We usually meet once a month at the Brynamlwg Tavern on campus to discuss matters over a few pints.
 
 
-Interested in joining? Find our mailing list at https://groups.google.com/forum/#!forum/abercompsoc or join the IRC discussion at #abercompsoc on freenode.
+Interested in joining? Find our [mailing list](https://groups.google.com/forum/#!forum/abercompsoc) or join the IRC discussion at `#abercompsoc` on freenode.
