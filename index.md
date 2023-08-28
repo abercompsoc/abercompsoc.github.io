@@ -14,4 +14,4 @@ matters over a few pints.
 
 Interested in joining? Find our [mailing
 list](https://groups.google.com/forum/#!forum/abercompsoc) or join us on
-[slack](https://abercompsoc.slack.com/signup).
+[discord]([https://abercompsoc.slack.com/signup](https://discord.gg/3mxCSqj8pK)https://discord.gg/3mxCSqj8pK).
