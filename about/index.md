@@ -5,11 +5,13 @@ subtitle: When you get down to it, what even is a society?
 ---
 
 AberCompSoc is the society for anyone and everyone interested in computer
-science, and all things related!
+science, and all things related! We aim to provide an environment 
+where like minded people can meet, discuss topics of interest and share their work
+with others.
 
 Some links:
 
-- Please sign up on the [Student Union website](https://www.abersu.co.uk/society/abercompsoc/)
 - Join the [mailing list](https://groups.google.com/forum/#!forum/abercompsoc)
-- Find us [on facebook](https://www.facebook.com/groups/AberCompSoc/)
+- Find us on [discord](https://discord.gg/3mxCSqj8pK)
 - [On twitter](https://twitter.com/abercompsoc)
+- [On facebook](https://www.facebook.com/groups/AberCompSoc/)
