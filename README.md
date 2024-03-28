@@ -1,8 +1,8 @@
-## abercompsoc.github.io
+# abercompsoc.github.io
 
-A jekell site cargo-culted from [daktilo](https://github.com/kronik3r/daktilo).
+A jekyll site cargo-culted from [daktilo](https://github.com/kronik3r/daktilo).
 
-### Developing
+## Developing
 
 1) Install Jekyll. For more info see the [installation guide](http://jekyllrb.com/docs/installation/).
 If you're lucky enough to be running Nix, run:
