@@ -3,3 +3,6 @@
 
 abercompsoc\.github\.io\.iml
 /.sass-cache/
+
+_site
+.jekyll-cache
