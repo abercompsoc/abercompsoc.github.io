@@ -3,6 +3,8 @@ abercompsoc.github.io
 
 A jekell site cargo-culted from [daktilo](https://github.com/kronik3r/daktilo).
 
+hosted at https://abercompsoc.github.io but also https://www.abercompsoc.wales
+
 Developing
 ----------
 
