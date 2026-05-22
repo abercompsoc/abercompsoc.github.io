@@ -34,3 +34,8 @@ Anything inside of `{}` will be executed as a shell script. This is not intended
 Your probably going to want `pandoc` to compile the markdown to html, other markdown compilers are available.
 
 Just as a warning, if you have `{` on the start of a line, inside a  "\`\`\`"  block, it will be expanded, expect errors! 
+
+# Build
+
+    make
+
