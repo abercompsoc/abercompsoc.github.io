@@ -1,4 +1,0 @@
-index ./index.md
-source ./scripts/std.sh
-pages ./pages
-style ./style.css
